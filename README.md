@@ -3,7 +3,7 @@ Ethereum Public Key Verification For ECDSA
 This project is an example of verifying a private key to a public address. This makes
 use of the React framework, Axios, ethereum-cryptography components among others.
 
-There are two components. The client and the server.
+There are two parts. The client and the server.
 
 Here are the installation steps.
 
