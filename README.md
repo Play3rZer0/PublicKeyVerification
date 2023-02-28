@@ -1,4 +1,4 @@
-Public Key Verification For ECDSA
+Ethereum Public Key Verification For ECDSA
 
 This project is an example of verifying a private key to a public address. This makes
 use of the React framework, Axios, ethereum-cryptography components among others.
@@ -21,11 +21,11 @@ This connects the Vite SSR (Server Side Rendering) front-end for React.
 
 ### Server
 
-This starts that node server running at port 3042.
+This starts the node server running at port 3042.
 
 1. From a terminal window open your project folder.
-   Open a terminal within the `/server` folder
-2. Run `npm install` to install all the depedencies
-3. Run `apx nodemon index` to start the server
+2. Go to the `/server` folder
+3. Run `npm install` to install all the depedencies
+4. Run `npx nodemon index` to start the server
 
-The application should connect to the default server port (3042)
+Note: To use nodemon, you must install it first (npm i nodemon)
