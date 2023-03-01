@@ -28,3 +28,8 @@ This starts the node server running at port 3042.
 4. Run `npx nodemon index` to start the server
 
 Note: To use nodemon, you must install it first (npm i nodemon)
+
+### Sending Transaction
+
+There is also a test transaction that allows accounts to send funds to another
+account. Must be defined in the index.js file (in the server folder).

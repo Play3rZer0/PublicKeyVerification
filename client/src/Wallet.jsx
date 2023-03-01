@@ -41,7 +41,7 @@ function Wallet({
       </label>
 
       <label>
-        <div className="address">Public Key: {address.slice(0, 40)} ... </div>
+        <div className="address">Public Key: {address} ... </div>
       </label>
 
       <div className="balance">Balance: {balance}</div>
